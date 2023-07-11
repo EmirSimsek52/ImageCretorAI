@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 import requests, io
 
 
-api_key = "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"
+api_key = "API_KEY"
 
 
 def generate():
